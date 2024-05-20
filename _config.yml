@@ -48,7 +48,7 @@ linkedin_username: esau-delacruz
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Esau and I'm a software developer, mainly focused on the front-end side. I've worked for different companies and clients. From CS ticketing systems, onboarding tools, to mobile apps.
+  Hi, my name's Esau, and I'm a software developer mainly focused on the front-end side. I've worked remotely for most of my professional life. I've worked for different companies and clients on projects ranging from [CS ticketing systems](https://www.pega.com/) and [onboarding tools](https://www.chameleon.io/) to mobile apps.
 
   I am most skilled in: <mark>JS</mark>, <mark>React</mark>, and <mark>C#</mark>. Languages are just tools, I'm confortable with learning and using new languages.
 
@@ -94,7 +94,7 @@ content:
         caption: 2004 - 2010
         sub_title: BSc Computer Science
         quote: >
-          I chose CS because I wanted to learn to make video games, it wasn't what I expected and then I experimented how to make small games by myself.
+          I chose CS because I wanted to learn how to make video games. It wasn't what I expected, so I started experimenting with making small games by myself.
         description: | # this will include new lines to allow paragraphs
           A former major in Math, as most developers, you learn the basics in school, but it's up to you what you really want to learn and focus on.
 
