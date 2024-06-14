@@ -50,7 +50,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Esau, and I'm a software developer mainly focused on the front-end side. I've worked remotely for most of my professional life. I've worked for different companies and clients on projects ranging from [CS ticketing systems](https://www.pega.com/) and [onboarding tools](https://www.chameleon.io/) to mobile apps.
 
-  I am most skilled in: <mark>JS</mark>, <mark>React</mark>, and <mark>C#</mark>. Languages are just tools, I'm confortable with learning and using new languages.
+  I am most skilled in: <mark>JS</mark>, <mark>React</mark>, and <mark>C#</mark>. Languages are just tools, I'm used to learning and using new languages.
 
 content:
   # - title: Projects # Title for the section
