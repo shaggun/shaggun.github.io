@@ -91,20 +91,28 @@ content:
     content:
       - layout: left
         title: UCA
-        caption: 2005 - 2010
+        caption: -
         sub_title: BSc Computer Science
         quote: >
           I chose CS because I wanted to learn how to make video games. It wasn't what I expected, so I started experimenting with making small games by myself.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           A former major in Math, as most developers, you learn the basics in school, but it's up to you what you really want to learn and focus on.
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       Alongside my interests in programming and software engineering some of my other interests and hobbies are:
       - Playing guitar and bass
       - Gaming
       - [Gunplas](https://en.wikipedia.org/wiki/Gunpla)
+
+  - title: Album recommendations
+    layout: text
+    content: |
+      Do yourself a favor and listen to the following albums:
+      - [Roosevelt](https://www.youtube.com/watch?v=QwlsRwR6H5Q&list=OLAK5uy_mR4ue5KE3RUNJqpXrPujGRCjLyk48bkBs) by Roosevelt
+      - [El Poeta Halley](https://www.youtube.com/watch?v=yjlM4E0GGeI&list=OLAK5uy_mruU39hhDCg3GeoIShv9MSJqfNUmlM7z4) by Love of Lesbian
+      - [Animals](https://www.youtube.com/watch?v=q60mi1jJcbo&list=OLAK5uy_kOf4fViqHyzRqgXYXcv29IzdahokdeZdE) by Pink Floyd
 
 # Footer
 footer_show_references: true
