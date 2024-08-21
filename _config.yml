@@ -91,14 +91,13 @@ content:
     content:
       - layout: left
         title: UCA
-        caption: -
         sub_title: BSc Computer Science
         quote: >
           I chose CS because I wanted to learn how to make video games. It wasn't what I expected, so I started experimenting with making small games by myself.
         description: |
           A former major in Math, as most developers, you learn the basics in school, but it's up to you what you really want to learn and focus on.
 
-  - title: A Little More About Me
+  - title: Interests
     layout: text
     content: |
       Alongside my interests in programming and software engineering some of my other interests and hobbies are:
